@@ -55,9 +55,9 @@ COMMAND_HAND_LER = environ.get("COMMAND_HAND_LER", "/")
 # Others
 S_GROUP = environ.get('S_GROUP',"https://t.me/KK_KanimangalamKovilakam")
 TMP_DOWNLOAD_DIRECTORY = environ.get("TMP_DOWNLOAD_DIRECTORY", "./DOWNLOADS/")
-CHANNEL_ID = environ.get("CHANNEL_ID", "-1001896132048")
-CHANNEL_LINK = environ.get('CHANNEL_LINK', 'https://t.me/+Y5ydwOg94Y0wYWU1')
-DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
+CHANNEL_ID = environ.get("CHANNEL_ID", "-1002041864430")
+CHANNEL_LINK = environ.get('CHANNEL_LINK', 'https://t.me/+JzqzSWffDGQ2ZDg0')
+DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '300').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "5")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
