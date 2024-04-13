@@ -27,7 +27,7 @@ MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/451f038b4e7c2ddd
 SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/5e2d4418525832bc9a1b9.jpg")
 
 # Admins, Channels & Users
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6756246365 6184402222 ').split()]
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '0').split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
@@ -43,7 +43,7 @@ NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
 
 # MongoDB information
 DATABASE_URI = environ.get('DATABASE_URI', "")
-DATABASE_NAME = environ.get('DATABASE_NAME', "Rajappan")
+DATABASE_NAME = environ.get('DATABASE_NAME', "kkfilims")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 #Downloader
@@ -70,7 +70,7 @@ P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)
 AUTO_DELETE = is_enabled((environ.get('AUTO_DELETE', "True")), True)
-SINGLE_BUTTON = is_enabled((environ.get('SINGLE_BUTTON', "True")), True)
+SINGLE_BUTTON = is_enabled((environ.get('SINGLE_BUTTON', "False")), True)
 CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "{file_name}\n \n🎗️ʝσιи 🎗️ ѕнαяє🎗️ ѕυρρσят🎗️\nᴊᴏɪɴ ᴡɪᴛʜ ᴜs\n✯𝙅𝙊𝙄𝙉 :-⇊\nhttps://t.me/kkfilims\n✯𝙅𝙊𝙄𝙉 :-⇊\nhttps://t.me/kkmoviesgroup\n🎗️ʝσιи 🎗️ ѕнαяє🎗️ ѕυρρσят🎗️\n")
 BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", "{file_name}\n\n🎗️ʝσιи 🎗️ ѕнαяє🎗️ ѕυρρσят🎗️\n• @KanimangalamKovilakam\n• @kkfilims\n")
 IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", f"{script.IMDB_TEMPLATE_TXT}")
