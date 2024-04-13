@@ -13,7 +13,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 🗃️DᴀᴛᴀBᴀsᴇ🗃️: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
 ⚙️Bᴏᴛ Sᴇʀᴠᴇʀ⚙️: <a href='https://app.koyeb.com/'>Kᴏʏᴇʙ</a>
 ___________👨‍💻ᴄʀᴇᴅɪᴛꜱ👨‍💻___________
-<a href='https://t.me/CURSED_LORD'>࿇ 𝙇𝙐𝙓-𝙁𝙀𝙍 ⌬</a></b>
+<a href='https://t.me/CURSED_LORD'>࿇ 𝙇𝙐𝙓-𝙁𝙀𝙍 ⌬</a></b>"""
 
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
