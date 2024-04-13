@@ -5,7 +5,7 @@
   𝑻𝒔𝒖𝒏𝒂𝒅𝒆-𝒂𝒖𝒕𝒐-𝒇𝒊𝒍𝒕𝒆𝒓 𝒃𝒐𝒕
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑇𝑜+𝑻𝒔𝒖𝒏𝒂𝒅𝒆-𝒂𝒖𝒕𝒐-𝒇𝒊𝒍𝒕𝒆𝒓+𝒃𝒐𝒕!;𝐶𝑟𝑒𝑎𝑡𝑒𝑑+𝑏𝑦+『🍁』༺⋆ͥ⋆ͣ⋆᭄ͫ⁣𓆩𝙻𝚄𝚃𝚃𝙰𝙿𝙿𝙸𓆪➳࿐𝆺𝅥⃝🇧🇷!;𝐴+𝑠𝑖𝑚𝑝𝑙𝑒+𝑎𝑛𝑑+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+𝐵𝑜𝑡!;𝐼𝑛𝑑𝑒𝑥𝑒𝑠+𝐹𝑖𝑙𝑒𝑠+𝑎𝑏𝑜𝑣𝑒+2𝐺𝐵;𝐴+𝐵𝑜𝑡+𝑤𝑖𝑡ℎ+𝑑𝑜𝑢𝑏𝑙𝑒+𝑏𝑢𝑡𝑡𝑜𝑛!;𝑆𝑡𝑎𝑟𝑡+𝑚𝑒𝑠𝑠𝑎𝑔𝑒+𝑤𝑖𝑡ℎ+𝑝𝑖𝑐!;𝐴𝑛𝑑+𝑚𝑜𝑟𝑒+𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑇𝑜+𝑻𝒔𝒖𝒏𝒂𝒅𝒆-𝒂𝒖𝒕𝒐-𝒇𝒊𝒍𝒕𝒆𝒓+𝒃𝒐𝒕!;𝐶𝑟𝑒𝑎𝑡𝑒𝑑+𝑏𝑦+ 𖤓ོ𓄂ക҉ണ᭄҉മംഗ ҉҉ലം ҉҉𓃰കോവ҉᭄ലകം ҉҉ 𓅛𖤓ོ🇧🇷!;𝐴+𝑠𝑖𝑚𝑝𝑙𝑒+𝑎𝑛𝑑+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+𝐵𝑜𝑡!;𝐼𝑛𝑑𝑒𝑥𝑒𝑠+𝐹𝑖𝑙𝑒𝑠+𝑎𝑏𝑜𝑣𝑒+2𝐺𝐵;𝐴+𝐵𝑜𝑡+𝑤𝑖𝑡ℎ+𝑑𝑜𝑢𝑏𝑙𝑒+𝑏𝑢𝑡𝑡𝑜𝑛!;𝑆𝑡𝑎𝑟𝑡+𝑚𝑒𝑠𝑠𝑎𝑔𝑒+𝑤𝑖𝑡ℎ+𝑝𝑖𝑐!;𝐴𝑛𝑑+𝑚𝑜𝑟𝑒+𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠!)
 </p>
 
 <a href="https://github.com/Mayavi333/Tsunade-auto-filter/stargazers"><img src="https://img.shields.io/github/stars/Mayavi333/Tsunade-auto-filter?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
@@ -156,8 +156,8 @@ python3 bot.py
 
 ## Credits 
 * [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
-* [![Joel-TGX](https://img.shields.io/static/v1?label=『🍁』༺⋆ͥ⋆ͣ⋆᭄ͫ⁣𓆩𝙻𝚄𝚃𝚃𝙰𝙿𝙿𝙸𓆪➳࿐𝆺𝅥⃝🇧🇷&message=Github&color=critical)](https://github.com/Joelkb)
-* [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/LUTTAPPIXTG)
+* [![Joel-TGX](https://img.shields.io/static/v1?label= 𖤓ོ𓄂ക҉ണ᭄҉മംഗ ҉҉ലം ҉҉𓃰കോവ҉᭄ലകം ҉҉ 𓅛𖤓ོ🇧🇷&message=Github&color=critical)](https://github.com/Joelkb)
+* [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/KK_KanimangalamKovilakam)
 
 ## Thanks to 
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
@@ -170,7 +170,7 @@ python3 bot.py
 ## Note 🏷️
  - <b>Importing this repo instead of forking is strictly prohibited 🚫 Kindly fork and edit as your wish (Must Give Credits for devs) 🙃</b>
  - <b>If you find any bugs or errors, report it to the developer.</b>
-* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/LUTTAPPIXTG)
+* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/KK_KanimangalamKovilakam)
 
 [Note To A So Called Dev](https://telegram.dog/subin_works/203): 
 

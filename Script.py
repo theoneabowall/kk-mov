@@ -7,21 +7,21 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 ᴄʟɪᴄᴋ /more ᴛᴏ ꜱᴇᴇ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇ ᴄᴏᴍᴍᴀɴᴅꜱ.</b>"""
 
     ABOUT_TXT = """<b>🌝Mʏ Nᴀᴍᴇ🌝: {}
-📍Cʀᴇᴀᴛᴏʀ📍: <a href='https://t.me/kkfilims'>『🍁』༺⋆ͥ⋆ͣ⋆᭄ͫ⁣𓆩𝙻𝚄𝚃𝚃𝙰𝙿𝙿𝙸𓆪➳࿐𝆺𝅥⃝🇧🇷</a>
+📍Cʀᴇᴀᴛᴏʀ📍: <a href='https://t.me/kkfilims'> 𖤓ོ𓄂ക҉ണ᭄҉മംഗ ҉҉ലം ҉҉�കോവ҉᭄ലകം ҉҉ �𖤓ོ🇧🇷</a>
 😎Lɪʙʀᴀʀʏ😎: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 🌟Lᴀɴɢᴜᴀɢᴇ🌟: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 🗃️DᴀᴛᴀBᴀsᴇ🗃️: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
 ⚙️Bᴏᴛ Sᴇʀᴠᴇʀ⚙️: <a href='https://app.koyeb.com/'>Kᴏʏᴇʙ</a>
 ___________👨‍💻ᴄʀᴇᴅɪᴛꜱ👨‍💻___________
-<a href='https://t.me/Master_broi'>𓄂℡𝗠𝞓𝗦᳅𝜩𝗥 ᠰ 𝙏𝗚 🕊️⃝🦋</a></b>
-<a href='https://github.com/CyberTG'>CyberTG</a></b>"""
+<a href='https://t.me/CURSED_LORD'>࿇ 𝙇𝙐𝙓-𝙁𝙀𝙍 ⌬</a></b>
+
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ⚠️ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀɴ  ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ ⚠️.
 - ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/kkmoviesgroup">ʜᴇʀᴇ</a>
 - ᴄʜᴇᴄᴋ ᴏᴜᴛ ᴏᴜʀ ᴀʟʟ ᴄʜᴀɴɴᴇʟꜱ - @KanimangalamKovilakam
 Dᴇᴠᴇʟᴏᴘᴇʀ:
-- <a href="https://t.me/LUTTAPPIxTG">『🍁』༺⋆ͥ⋆ͣ⋆᭄ͫ⁣𓆩𝙻𝚄𝚃𝚃𝙰𝙿𝙿𝙸𓆪➳࿐𝆺𝅥⃝🇧🇷</a></b>"""
+- <a href="https://t.me/KK_KanimangalamKovilakam"> 𖤓ོ𓄂ക҉ണ᭄҉മംഗ ҉҉ലം ҉҉�കോവ҉᭄ലകം ҉҉ �𖤓ོ🇧🇷</a></b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -165,9 +165,9 @@ Nᴀᴍᴇ - {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : 『🍁』༺⋆ͥ⋆ͣ⋆᭄ͫ⁣𓆩𝙻𝚄𝚃𝚃𝙰𝙿𝙿𝙸𓆪➳࿐𝆺𝅥⃝🇧🇷
-• ᴜꜱᴇʀɴᴀᴍᴇ : @LUTTAPPIxTG 
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/LUTTAPPIxtg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ꜰᴜʟʟ ɴᴀᴍᴇ :  𖤓ོ𓄂ക҉ണ᭄҉മംഗ ҉҉ലം ҉҉�കോവ҉᭄ലകം ҉҉ �𖤓ོ🇧🇷
+• ᴜꜱᴇʀɴᴀᴍᴇ : @KK_KanimangalamKovilakam 
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/KK_KanimangalamKovilakam'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
